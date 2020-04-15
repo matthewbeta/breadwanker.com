@@ -36,7 +36,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
   eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
+	eleventyConfig.addPassthroughCopy("css");
+	
+
+	eleventyConfig.addPassthroughCopy("manifest.json");
+	eleventyConfig.addPassthroughCopy({ "_favicons": "/" });
+	eleventyConfig.addPassthroughCopy({ "_netlify": "/" });
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
