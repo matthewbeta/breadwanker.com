@@ -1,47 +1,12 @@
-# eleventy-base-blog
+# Bread Wanker
 
-A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/591a15aa-f5ea-40b8-a3a6-b136ecc67299/deploy-status)](https://app.netlify.com/sites/breadwanker/deploys)
+
+A blog about baking
 
 [![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
 
-## Demos
-
-* [Netlify](https://eleventy-base-blog.netlify.com/)
-* [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
-
-## Deploy this to your own site
-
-These builders are amazing—try them out to get your own Eleventy site in a few clicks!
-
-* [Get your own Eleventy web site on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
-* [Get your own Eleventy web site on ZEIT Now](https://zeit.co/new/project?template=11ty/eleventy-base-blog)
-
-## Getting Started
-
-### 1. Clone this Repository
-
-```
-git clone https://github.com/11ty/eleventy-base-blog.git my-blog-name
-```
-
-
-### 2. Navigate to the directory
-
-```
-cd my-blog-name
-```
-
-Specifically have a look at `.eleventy.js` to see if you want to configure any Eleventy options differently.
-
-### 3. Install dependencies
-
-```
-npm install
-```
-
-### 4. Edit _data/metadata.json
-
-### 5. Run Eleventy
+## Building
 
 ```
 npx eleventy
@@ -62,7 +27,20 @@ Or in debug mode:
 DEBUG=* npx eleventy
 ```
 
-### Implementation Notes
+## Post Front Matter Template
+
+```yaml
+---
+title: Hello, World.
+description: This is a post on my blog about bread.
+date: 2020-01-01
+tags:
+  - tag-name
+layout: layouts/post.njk
+---
+```
+
+## Implementation Notes
 
 * `about/index.md` shows how to add a content page.
 * `posts/` has the blog posts but really they can live in any directory. They need only the `post` tag to be added to this collection.
