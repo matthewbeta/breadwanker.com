@@ -5,10 +5,18 @@ eleventyNavigation:
   order: 1
 ---
 
-<h1>Latest 3 Posts</h1>
+<h1>Hello, I'm a Bread Wanker</h1>
+<p>This is where I write about bread, baking, and food</p>
 
-{% set postslist = collections.posts | head(-3) %}
+<hr>
+
+<h2>These are my recent blogs</h2>
+<div class="content stack">
+
+{% set postslist = collections.posts | head(-1) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+</div>
+
+<p>More posts can be found in <a href="{{ '/posts/' | url }}" target="_blank" rel="noreferrer">the archive</a>.</p>

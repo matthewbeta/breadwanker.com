@@ -2,8 +2,17 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
+<article>
 <h1>{{ title }}</h1>
+{% if date %}
+<time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+{% endif %}
+
+<div class="content">
 
 {{ content | safe }}
 
+</div>
+
 <p><a href="{{ '/' | url }}">← Home</a></p>
+</article>
