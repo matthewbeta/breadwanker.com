@@ -52,7 +52,7 @@ The percentages here are:
 
 Making this dough 77% hydration. 
 
-Sourdough is (I’ve found) a *lot* stickier than regular dough and this is why. This is the nature of the beast. I have seen a few tips for beginners to reduce the hydration levels to around 65-70% to make it easier to handle[^caveat]. Your mileage may vary but I might give this a go for a future loaf to see if it improves the shaping. 
+Sourdough is (I’ve found) a *lot* stickier than regular dough and this is why. This is the nature of the beast. I have seen a few tips for beginners to reduce the hydration levels to around 65-70% to make it easier to handle*. Your mileage may vary but I might give this a go for a future loaf to see if it improves the shaping. 
 
 ## Ok fine. 
 
@@ -60,6 +60,6 @@ They probably aren’t something that you need to worry about when following a r
 
 TTFN. 
 
-[^caveat]: This is usually with the caveat that the bread will likely be denser, as less hydration means it loses the ability to rise as much. 
+*This is usually with the caveat that the bread will likely be denser, as less hydration means it loses the ability to rise as much. 
 
 
