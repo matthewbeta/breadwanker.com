@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-A thing that the bread need community seem to be into is measuring ingredients as a percentage. This is called bakers percentages. 
+A thing that the bread nerd community seem to be into is measuring ingredients as a percentage. This is called bakers percentages. 
 
 ## Bakers percentages?
 
