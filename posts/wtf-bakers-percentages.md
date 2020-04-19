@@ -29,13 +29,13 @@ In that example, the percentages would be:
 
 As best I can tell, it serves 2 purposes. 
 
-The first is to allow a baker to scale recipes up (day for making a lot of dough in a real bakery) or down (say if you only have 300g of flour but still want to make a loaf). 
+The first is to allow a baker to scale recipes up (say for making a lot of dough in a real bakery) or down (say if you only have 300g of flour but still want to make a loaf). 
 
 The second is so you can tweak the *hydration* level (wetness) of the dough. 
 
 ## Hydration
 
-The hydration level of your dough is the percentage of water. The dough in the basic recipe above would be 65% hydration. 
+The hydration level of your dough is the percentage of water. The dough in the basic recipe above would be 65% hydration (325/500=0.65). 
 
 Most Sourdough recipes I have found are a lot wetter—around 75-80% hydration. Example:
 
