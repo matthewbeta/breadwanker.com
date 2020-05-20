@@ -29,8 +29,7 @@ The original recipe I took this from was nearer 77% hydration. I found that too 
 
 I feed my starter for a few days to fatten it up (usually a table spoon each of water/flour). I then give it a largish feed the day before I want to bake. This feed needs to get it up to the weight you want *plus* enough to keep your starter going for the next loaf. If it’s pretty low, I might top it up with some larger than usual feeds for a few days. 
 
-I want to mix about 5pm so I try and time
-the feeding so that it’s at it’s maximum bubblyness. I think this depends on the starter, the temperature, what you fed it etc… at the moment it’s quite warm, so 3-4 hours is enough for me. Basically, I want it to at least double in size. 
+I want to mix about 5pm so I try and time the feeding so that it’s at it’s maximum bubblyness. I think this depends on the starter, the temperature, what you fed it etc… at the moment it’s quite warm, so 3-4 hours is enough for me. Basically, I want it to at least double in size. 
 
 ### Mixing
 
